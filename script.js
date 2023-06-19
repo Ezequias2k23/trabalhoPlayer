@@ -1,8 +1,8 @@
 
 let musicas = [
-    {titulo:'Guitar solo', artista:'João Tinti', source:'musicas/We Ride! - Reed Mathis.mp3', img:'imagens/rock.jpg'},
-    {titulo:'Samba raiz', artista:'Bossa Nova Brasil', source:'musicas/Ella Vater - The Mini Vandals.mp3', img:'imagens/samba.jpg'},
-    {titulo:'Música piano', artista:'John Green', source:'musicas/A Brand New Start - TrackTribe (1).mp3', img:'imagens/piano.jpg'}
+    {titulo:'Sanctuary', artista:'Iron Maiden', source:'musicasTrabalho/ y2mate.com - Iron Maiden Sanctuary.mp3', img:'imagensTrabalho/iron-maiden-sanctuary-single-cover.jpg.jpg'},
+    {titulo:'Luz', artista:'Djavan', source:'y2mate.com - Djavan Luz Áudio Oficial.mp3', img:'imagensTrabalho/luz-1152x0-c-default.jpg'},
+    {titulo:'All Eyez On Me', artista:'2Pac', source:'musicasTrabalho/ y2mate.com - 2Pac All Eyez On Me.mp3', img:'imagensTrabalho/2Pac_-_All_Eyez_on_Me.jpg'}
 ];
 
 // INICIO
